@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Aw3r1se\\Bracketproblem\\": "src/"
+            "Bracketproblem\\": "src/"
         }
     },
     "authors": [

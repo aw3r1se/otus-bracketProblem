@@ -1,6 +1,6 @@
 <?php
 
-namespace Aw3r1se\BracketProblem;
+namespace BracketProblem;
 
 /**
  * Class BracketString

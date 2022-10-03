@@ -1,0 +1,17 @@
+{
+    "name": "aw3r1se/bracketproblem",
+    "description": "otus2018 lesson2",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aw3r1se\\Bracketproblem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aw3r1se"
+        }
+    ],
+    "require": {}
+}
